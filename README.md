@@ -28,5 +28,5 @@ To calculate `(3 + 4) * (5 + 2)`, input the following:
 - **Compiler:** GCC
 
 ## Authors
-- **[Your Name]** - [Your Student Number]
-- **[Partner's Name]** - [Partner's Student Number]
+- **[Name]** - P.H.H.S JAYASINGHE
+  
