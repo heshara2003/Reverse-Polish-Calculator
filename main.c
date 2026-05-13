@@ -2,7 +2,7 @@
  * ============================================================
  *  Reverse Polish Notation (RPN) Calculator
  *  Course  : IC 2306 - Programming II
- *  Group   : Student 2023T01892 & Student 2023T01859
+ *  Group   : Student 2023T01866
  * ============================================================
  *
  *  HOW IT WORKS:
